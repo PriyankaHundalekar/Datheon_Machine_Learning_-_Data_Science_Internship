@@ -26,7 +26,6 @@ Datheon_Machine_Learning_&_Data_Science_Internship/
 │   ├── nlp_sentiment_pipeline.ipynb      # NLP sentiment classification with NLTK & TF-IDF
 │   └── README.md                         # Detailed Task 4 documentation
 │
-├── requirements.txt                      # Project dependency list
 └── README.md                             # Root portfolio overview (This file)
 
 ```
