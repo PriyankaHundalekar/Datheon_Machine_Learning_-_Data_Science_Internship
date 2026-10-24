@@ -1,4 +1,4 @@
-# 🚀 Datheon Machine Learning & Data Science Internship Portfolio
+# Datheon Machine Learning & Data Science Internship Portfolio
 
 Welcome to my repository for the **Datheon Machine Learning & Data Science Internship (ID: DT-2026-2BI5W)**. This repository houses production-grade, reproducible Jupyter Notebook implementations covering supervised classification, supervised regression, ensemble methods for customer churn, and natural language processing (NLP) sentiment analysis.
 
